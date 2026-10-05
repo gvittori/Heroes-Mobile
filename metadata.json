@@ -1,0 +1,6 @@
+{
+  "name": "Heroes of Might and Magic: Overworld Adventure",
+  "description": "An overworld node movement and A* pathfinding adventure map inspired by Heroes of Might and Magic I.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
